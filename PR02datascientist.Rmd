@@ -1,7 +1,7 @@
 ---
 title: "Becoming a Data Scientist"
 subtitle: "STT2860 Project 01 Fall 2022"
-author: "YOUR NAME HERE"
+author: "Benjamin Shaffer"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -12,43 +12,42 @@ output:
 
 **Q1: What is the name of the person interviewed?**
 
-ANSWER:
+ANSWER: Randy Olson
 
 **Q2: Why did you choose the particular interview you did?**
 
-ANSWER:
+ANSWER: I chose this podcast because he credentials of the interviewee. I want to see what someone of their status and place of employment would use data science.
 
 **Q3: Does the person consider themselves a data scientist?**
 
-ANSWER:
+ANSWER: Yes. They reference their job title. Ron also explains that they work with data quite often.
 
 **Q4: What is their formal and self-taught education in data science?**
 
-ANSWER:
+ANSWER: Self taught through learning to beat video games in early   childhood. Began writing code in high school. Continued with computer science in college. Also commented that they knew they were in the right field when they would stay up with their school work and would actually enjoy it.
 
 **Q5: What has been their career path? Did they start off in data science?**
 
-ANSWER:
+ANSWER: Started interning in AI research. The internship convinced them to continue to graduate school school. Shifted from programming field to an AI project field. Uses what they learn about Evolutionary algorithims in their current machine learning field.
 
 **Q6: What programs/technologies to they use when working in data science?**
 
-ANSWER:
+ANSWER: They used c++ and python to write their code.
 
 **Q7: What is one interesting (to you) data science problem they have worked on?**
 
-ANSWER:
+ANSWER: Evolutionary algorithms. This is the idea of a group of AI working towards a common goal. You start with a bunch of random computer programs and the best programs stay until you rech the final product.
 
 **Q8: Are there any specific pieces of advice they gave that inspire/resonate with you?**
 
-ANSWER:
+ANSWER: That the first thing they tech their students is what to do with a data set. I resonate with this because, personally, I find data sets to be a bit intimidating so it is nice to know that they walk through that with their students.
 
 **Q9: Was there anything that surprised you or that you particularly identified with?**
-
-ANSWER:
+    
+ANSWER: That they work with people throu Reddit. Reddit has never seemed like a workspace to me so it caught me off guard to hear they use it to work with other data scientists
 
 **Q10: Q10: How did this person path differ from the previous interview you watched?**
 
-ANSWER:
-
+ANSWER: I noticed that even though they both work with AI they are using it in different ways and each achieve their results by different means/tools.
 <hr>
 
